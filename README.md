@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/FJNTC2uXEAMR-lf?format=jpg&name=large)](https://rishavchanda.io)
+
 <h1 align="center">Hello there 👋, I'm Akshit</h1>
 <h3 align="center">MERN STACK DEV</h3>
 <img align="right" alt="Coding" width="400" src="https://olympus-assets.com/wp-content/uploads/2022/10/liminal-spaces-1.gif">
