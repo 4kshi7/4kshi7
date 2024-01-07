@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello there 👋, I'm Akshit</h1>
 <h3 align="center">MERN STACK DEV</h3>
-<img align="right" alt="Coding" width="400" src="https://olympus-assets.com/wp-content/uploads/2022/10/liminal-spaces-1.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/rKEUw4Xh3xAAAAAC/byuntear-thousand-yard-stare.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4kshi7&label=Profile%20views&color=0e75b6&style=flat" alt="4kshi7" /> </p>
 
