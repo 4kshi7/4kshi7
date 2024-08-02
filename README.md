@@ -1,5 +1,5 @@
 # About Me?
-Fullstack and Cloud Developer. <br />
+Fullstack Dev, Devops and Web3. <br />
 
 ### Music?
 
