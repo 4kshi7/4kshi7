@@ -1,6 +1,6 @@
 # About Me?
-Fullstack Dev, Devops and Web3. <br />
-C/C++, TypeScript and Rust. <br />
+Fullstack Dev <br />
+C/C++, TypeScript and Javascript. <br />
 
 ### Music?
 
