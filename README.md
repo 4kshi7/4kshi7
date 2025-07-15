@@ -1,6 +1,6 @@
 # About Me?
-Fullstack Dev <br />
-C/C++, TypeScript and Javascript. <br />
+Fullstack, Devops <br />
+C++, TypeScript, Python, Rust. <br />
 
 ### Music?
 
